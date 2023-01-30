@@ -44,6 +44,10 @@ Assembly :
 ```assembly
 global _start
 
+section .data
+  msg: db "Hello, world!", 10
+  msglen: equ $ - msg
+
 section .text
 
 _start:
@@ -56,10 +60,6 @@ _start:
   mov rax, 60       ;
   mov rdi, 0        ;  
   syscall           ;
-
-section .rodata
-  msg: db "Hello, world!", 10
-  msglen: equ $ - msg
 ```
 
 Output : Hello, World!
