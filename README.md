@@ -41,7 +41,7 @@ BrainFuck : (ils font ch*er ceux là)
 ]<+.
 ```
 Assembly :
-
+```assembly
 global _start
 
 section .text
@@ -60,6 +60,6 @@ _start:
 section .rodata
   msg: db "Hello, world!", 10
   msglen: equ $ - msg
-
+```
 
 Output : Hello, World!
