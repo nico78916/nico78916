@@ -1,6 +1,6 @@
 Parmis le C,C++,HTML,CSS,JAVA,JavaScript,TypeScript,Ocaml,Assembly,LUA,Python,BrainFuck je n'ai pas vraiment trouvé de pire ou de meilleur language
 
-Affichage de hello world dans tout les languages :
+Affichage de hello world dans tout les languages pour les curieux qui ne connaissent pas certain d'entre eux:
 
 Python :
 ```py
