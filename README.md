@@ -12,7 +12,7 @@ printf("Hello, World!\n");
 ```
 C++ :
 ```c++
-out << "Hello, World!\n" << std
+std::cout << "Hello World!";
 ```
 HTML :
 ```html
