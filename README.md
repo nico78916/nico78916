@@ -1,6 +1,11 @@
-Parmis le C,C++,HTML,CSS,JAVA,JavaScript,TypeScript,Ocaml,Assembly,LUA,Python,BrainFuck je n'ai pas vraiment trouvé de pire ou de meilleur language
+Parmis le PHP,C,C++,HTML,CSS,JAVA,JavaScript,TypeScript,Ocaml,Assembly,LUA,Python,BrainFuck je n'ai pas vraiment trouvé de pire ou de meilleur language
 
 Affichage de hello world dans tout les languages pour les curieux qui ne connaissent pas certain d'entre eux:
+
+PHP :
+```php
+echo "Hello, World!\n";
+```
 
 Python :
 ```py
