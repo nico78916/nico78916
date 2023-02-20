@@ -4,7 +4,7 @@ Affichage de hello world dans tout les languages pour les curieux qui ne connais
 
 PHP :
 ```php
-echo "Hello, World!\n";
+echo "Hello, World!";
 ```
 
 Python :
