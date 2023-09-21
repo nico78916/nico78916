@@ -1,4 +1,5 @@
-Bonjour voyageur !
-[ ] Bonjour !
-[ ] Arrete les jeux vidéos ...
-[ ] Tu sais coder ?
+# FR
+## Je ne suis pas inspiré ... et flemmard un peu
+
+# EN
+## I am not inspired ... and a bit lazy too
